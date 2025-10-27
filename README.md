@@ -12,8 +12,8 @@
 
 <h3>Principais projetos:</h3>
 
-- <a href"https://github.com/Jeferson6191/To-Do-List" target="_blank">Site de gerenciador de tarefas</a>
-- <a href"https://github.com/Jeferson6191/The-Encyclopedia" target="_blank">Site de Cursos (The-Encyclopedia)</a>
+<a href"https://github.com/Jeferson6191/To-Do-List" target="_blank">Site de gerenciador de tarefas</a>
+<a href"https://github.com/Jeferson6191/The-Encyclopedia" target="_blank">Site de Cursos (The-Encyclopedia)</a>
 
 <h3 align="left">Estou conhecendo:</h3>
 <p align= "left">
