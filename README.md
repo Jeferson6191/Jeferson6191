@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá Mundo, eu sou Jeferson </h1>
 
 <p align="center">
-  💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia | 🧩 Cursando Analise e Desenvolvimento de Sistemas
+  💻 Estudante de Programação | 🌍 Analise de dados e desenvolvimento Web | 🧩 Cursando Analise e Desenvolvimento de Sistemas
 </p><br><br>
 
 
@@ -9,7 +9,10 @@
 [![My Skills](https://skillicons.dev/icons?i=python,javascript)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,bootstrap,git,github,html,css,node)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,bootstrap,git,github,html,css,nodejs,postman,selenium)](https://skillicons.dev)<br><br>
+
+## 🛠️ Banco de dados
+[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,postman)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
