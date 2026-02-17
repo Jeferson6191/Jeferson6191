@@ -12,12 +12,12 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,bootstrap,git,github,html,css,nodejs,postman,selenium)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Banco de dados
-[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres)](https://skillicons.dev)<br><br>
+linkedin
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-jeffrodjs0@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{jeffrodjs0@gmail.com})](mailto:{jeffrodjs0@gmail.com})
-[![Linkedin: Ellen](https://img.shields.io/badge/-Jeferson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-rodrigueszs-silva/)](https://www.linkedin.com/in/jeferson-rodrigueszs-silva/)
+[![My Contact](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)[![Gmail Badge](https://img.shields.io/badge/-jeffrodjs0@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{jeffrodjs0@gmail.com})](mailto:{jeffrodjs0@gmail.com})
+[![My Contact](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)[![Linkedin: Ellen](https://img.shields.io/badge/-Jeferson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-rodrigueszs-silva/)](https://www.linkedin.com/in/jeferson-rodrigueszs-silva/)
 <br><br>
 
 
