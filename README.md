@@ -6,13 +6,13 @@
 
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=python,javascript)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,nodejs)]<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,bootstrap,git,github,html,css,nodejs,postman,selenium)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,bootstrap,git,github,html,css,postman,selenium,npm)]<br><br>
 
 ## 🛠️ Banco de dados
-linkedin
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)]<br><br>
 
 ## 📫 Contato
 
