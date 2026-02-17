@@ -21,6 +21,6 @@
 <br><br>
 
 
-![Jeferson6191 GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeferson6191&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeferson6191&show_icons=true&theme=transparent)
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
