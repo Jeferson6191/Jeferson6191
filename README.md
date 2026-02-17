@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,bootstrap,git,github,html,css,nodejs,postman,selenium)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Banco de dados
-[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,postman)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
