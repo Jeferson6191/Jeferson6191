@@ -16,8 +16,8 @@
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-{jeffrodjs0@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{jeffrodjs0@gmail.com})](mailto:{jeffrodjs0@gmail.com})
-[![Linkedin: Ellen](https://img.shields.io/badge/-Jeferson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-rodrigues-silva/)](https://www.linkedin.com/in/jeferson-rodrigues-silva/)
+[![Gmail Badge](https://img.shields.io/badge/-jeffrodjs0@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{jeffrodjs0@gmail.com})](mailto:{jeffrodjs0@gmail.com})
+[![Linkedin: Ellen](https://img.shields.io/badge/-Jeferson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-rodrigueszs-silva/)](https://www.linkedin.com/in/jeferson-rodrigueszs-silva/)
 <br><br>
 
 
