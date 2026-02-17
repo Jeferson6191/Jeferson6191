@@ -16,8 +16,8 @@ linkedin
 
 ## 📫 Contato
 
-[![My Contact](https://skillicons.dev/icons?i=gmail)](mailto:{jeffrodjs0@gmail.com}))  [![Gmail Badge](  https://img.shields.io/badge/-jeffrodjs0@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{jeffrodjs0@gmail.com})](mailto:{jeffrodjs0@gmail.com})<br>
-[![My Contact](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/jeferson-rodrigueszs-silva/))  [![Linkedin: Ellen](  https://img.shields.io/badge/-Jeferson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-rodrigueszs-silva/)](https://www.linkedin.com/in/jeferson-rodrigueszs-silva/)
+[![My Contact](https://skillicons.dev/icons?i=gmail)](mailto:{jeffrodjs0@gmail.com})     [![Gmail Badge](  https://img.shields.io/badge/-jeffrodjs0@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{jeffrodjs0@gmail.com})](mailto:{jeffrodjs0@gmail.com})<br>
+[![My Contact](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/jeferson-rodrigueszs-silva/))     [![Linkedin: Ellen](  https://img.shields.io/badge/-Jeferson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-rodrigueszs-silva/)](https://www.linkedin.com/in/jeferson-rodrigueszs-silva/)
 <br><br>
 
 
