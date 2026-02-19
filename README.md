@@ -16,6 +16,29 @@
 ## 🛠️ Banco de dados
 ![My Skills](https://skillicons.dev/icons?i=mysql,postgres)<br><br>
 
+## 📌 Projeto em Destaque
+
+<h3>🏥 Automação Corporativa de Dados Cirúrgicos (Python + Pandas)</h3>
+
+<p>
+Projeto desenvolvido em contexto corporativo real para automatizar o tratamento
+e padronização de planilhas Excel com dados de cirurgias, eliminando processos
+manuais e preparando a base para análise no Power BI.
+</p>
+
+<ul>
+  <li>✔ Automação de regras de negócio com Pandas</li>
+  <li>✔ Padronização de dados para BI</li>
+  <li>✔ Redução de erros manuais e retrabalho</li>
+</ul>
+
+<p>
+🔗 <a href="https://github.com/SEU_USUARIO/corporate-excel-surgery-data-automation">
+Ver repositório
+</a>
+</p>
+
+
 ## 📫 Contato
 
 [![My Contact](https://skillicons.dev/icons?i=gmail)](mailto:{jeffrodjs0@gmail.com})     [![Gmail Badge](  https://img.shields.io/badge/-jeffrodjs0@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{jeffrodjs0@gmail.com})](mailto:{jeffrodjs0@gmail.com})<br>
