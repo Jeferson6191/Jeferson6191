@@ -14,7 +14,7 @@
 ![My Skills](https://skillicons.dev/icons?i=vscode,bootstrap,git,github,html,css,postman,selenium,npm)<br><br>
 
 ## 🛠️ Banco de dados
-![My Skills](https://skillicons.dev/icons?i=mysql,postgres)<br><br>
+![My Skills](https://skillicons.dev/icons?i=sqlitel,postgres)<br><br>
 
 ## 📌 Projeto em Destaque
 
