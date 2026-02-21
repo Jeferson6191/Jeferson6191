@@ -33,7 +33,7 @@ manuais e preparando a base para análise no Power BI.
 </ul>
 
 <p>
-🔗 <a href="https://github.com/SEU_USUARIO/corporate-excel-surgery-data-automation">
+🔗 <a href="https://github.com/Jeferson6191/corporate-excel-surgery-data-automation">
 Ver repositório
 </a>
 </p>
